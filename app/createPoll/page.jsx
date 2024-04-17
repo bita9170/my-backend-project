@@ -1,6 +1,6 @@
 "use client";
 import React, { useState } from "react";
-import RemoveBtn from "@/app/components/RemoveBtn";
+import RemoveBtn from "@/components/RemoveBtn";
 
 import axios from "axios";
 

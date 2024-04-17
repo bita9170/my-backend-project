@@ -28,7 +28,10 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "libs/mongodb.ts"
-, "app/createPoll/page.jsx", "app/components/Navbar.jsx", "app/components/PollsList.jsx"  ],
+    "libs/mongodb.ts",
+    "app/createPoll/page.jsx",
+    "components/Navbar.jsx",
+    "components/PollsList.jsx"
+  ],
   "exclude": ["node_modules"]
 }
